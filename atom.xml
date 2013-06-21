@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-06-21T09:55:44-05:00</updated>
+	<updated>2013-06-21T10:33:49-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,32 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Setting Up Automatic Tweets When Posting to Blog]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/06/21/setting-up-automatic-tweets-when-posting-to-blog/"/>
+		<updated>2013-06-21T10:31:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/06/21/setting-up-automatic-tweets-when-posting-to-blog</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I wanted to set up something that would tweet when I posted a new post on here and ended up finding this:</p>
+
+<p><a href="http://fusion94.org/blog/2013/01/13/howto-tweet-new-posts-in-octopress/">http://fusion94.org/blog/2013/01/13/howto-tweet-new-posts-in-octopress/</a></p>
+
+<p>Assuming this post generates &amp;&amp; deploys and sends out a tweet, I think its pretty awesome. If anyone else is using octopress ( which I recommend you do ) this could come in handy if you are also wanting to do something similar.</p>
+
+<p>It was pretty straightforward, I did get caught up on the dev.twitter page trying to get my tokens generated but not a big problem.</p>
+
+<p>Here goes nothing&hellip;</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
