@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-06-21T10:44:33-05:00</updated>
+	<updated>2013-06-21T10:49:22-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -26,7 +26,11 @@
 					<p></p>
 				
 			]]>
-			<![CDATA[<p>Alright everything seemed to work except for the link to the blog post, I think it was getting thrown off because I have it on a github project page called /blog and individual posts are also stored in /blog folder when deployed so its zacholauson.github.io/blog/blog/#{post_name}. It should work now assuming I understand the code correctly.</p>
+			<![CDATA[<p>Alright everything seemed to work except for the link to the blog post, I think it was getting thrown off because I have it on a github project page called /blog and individual posts are also stored in /blog folder when deployed so its:</p>
+
+<p>zacholauson.github.io/blog/blog/#{post_name}</p>
+
+<p>It should work now assuming I understand the code correctly.</p>
 ]]>
 		</content>
 	</entry>
