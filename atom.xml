@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-06-21T11:22:45-05:00</updated>
+	<updated>2013-06-22T09:16:22-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,26 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[2 Days]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/06/22/2-days/"/>
+		<updated>2013-06-22T09:02:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/06/22/2-days</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Well we are only 2 days away from starting DevBootcamp. I am feeling much better about where I am, and I think I am pretty well prepared, only time will tell though.</p>
+
+<p>Last night, Brett (who is my roomate and also a Grasshopper) and I were working on a One Die Game from rubyquiz, we ended up using Nitrous.IO to collaborate over a couple text files and we made a lot of progress last night. We still need to implement computer logic so you can play against AI. We also took it a step further and starting making it so you could specify who many players you wanted and how many of them would be humans, so you could play against 20+ computers (probably wouldnt be very fun) or play vs a friend or something.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
