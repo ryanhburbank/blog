@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-06-22T18:23:31-05:00</updated>
+	<updated>2013-06-22T22:17:03-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,52 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Took a bit of a break today]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/06/22/took-a-bit-of-a-break-today/"/>
+		<updated>2013-06-22T22:05:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/06/22/took-a-bit-of-a-break-today</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>This morning my mom was driving through Chicago so I went and had breakfast with her, and then coded a bit, then Brett and I decided to go get groceries and we ended up exploring Chicago a bit, we went to the top of the John Hancock building and took some cool pictures, I played around with Photosphere and then we went and looked at some beautiful cars at a, dare I say, Super / Hyper Car dealership. Cars are so beautiful, even the shitty ones still have a little something that makes them nice. Not sure if I should admit I feel that way though, some cars are so ugly.</p>
+
+<p>Tonight we are working on making that One &ndash; Dice &ndash; Roll game multiplayer in the sense that you could controll it from 2 or more different computers, we started with sockets but we cant get it to communicate properly.</p>
+
+<p>I suggested we set up something like port forwarding so we could use external IP&rsquo;s to connect to each other, and I think that would work, but we arent getting it.</p>
+
+<p>So now were kinda reverse engineering multiplayer games built in Ruby to figure out what makes a server and client app communicate.</p>
+
+<p>Also just over 1 day until DevBootcamp starts.</p>
+
+<p>We so excited and it ain&rsquo;t even Friday.</p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
+			<title type="html"><![CDATA[new-post]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/06/22/new-post/"/>
+		<updated>2013-06-22T22:05:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/06/22/new-post</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
