@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: DevBootcamp, | Zach Olauson]]></title>
+  <title><![CDATA[Category: DevBootcamp | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/devbootcamp/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-06-24T00:26:57-05:00</updated>
+  <updated>2013-06-24T07:08:17-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Only ~30 minutes away]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/06/24/only-%7E30-minutes-away/"/>
+    <updated>2013-06-24T07:02:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/06/24/only-~30-minutes-away</id>
+    <content type="html"><![CDATA[<p>Well we are only about 30 minutes away from starting. I am not sure what to say, just I am excited and nervous and I cant wait to start diving into some code.</p>
+
+<p>I am not sure if blogging counts as social networking while I am there, so I may just have to write a post tonight about all that I have learned.</p>
+
+<p>As I get more used to the place I want to write about the experience at the Chicago office, because when I applied it hadnt even opened and I havent been able to find much info about it, where as the San Francisco office, you can pretty much find out whatever you want to know from a blog post or two.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tomorrows The Day]]></title>
