@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase1 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase1/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-06-24T21:48:22-05:00</updated>
+  <updated>2013-06-24T22:05:45-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Few Thoughts on Pair Programming]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/06/24/a-few-thoughts-on-pair-programming/"/>
+    <updated>2013-06-24T21:52:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/06/24/a-few-thoughts-on-pair-programming</id>
+    <content type="html"><![CDATA[<p>So.. Pair Programming.</p>
+
+<p>Today was my first real shot at it. Im not sure what to think of it, but I am sure that if we are learning how to do it properly, its good.
+I thought it was pretty good, at some points and it was mostly dependant on who I was pairing with. Some people it really was pretty good, but then a couple it was just eh, and I dont blame anyone but myself.</p>
+
+<p>I am so used to working on my own and in my own little zone, when I see a possibility of improving the code or something I just jump on the keyboard and starting layin down code. Which certainly isnt how pair programming works.</p>
+
+<p>Ill keep posting on pair programming as I get better / or worse at it. I would really like to get really understand, sooner than later, so I dont hurt my partners learning while pairing, but for now we are all new to it.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Day at DevBootcamp]]></title>
