@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-06-24T22:05:45-05:00</updated>
+	<updated>2013-06-25T21:46:44-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,36 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Day 2: Pair Programming, Mentors, and Badassery]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/06/25/day-2-pair-programming-slash/"/>
+		<updated>2013-06-25T21:24:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/06/25/day-2-pair-programming-slash</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Today was my second day at DevBootcamp in Chicago. It was simply awesome.</p>
+
+<h4>Pairing</h4>
+
+<p>We paired with the same person all day today and my pair ended up being Brett, and the pair programming experience was really good. I just kept my hands away from the keyboard and mouse while navigating so I wouldnt accidently take control when my brain started going, and when I did take over, I asked first so I wasnt stepping on any toes.</p>
+
+<h4>Mentors</h4>
+
+<p>We met our mentors tonight, my mentor is Rob Lambert, who is a java developer. I&rsquo;m not sure what mentors provide to us, but its cool that people are willing to give up some of their day to help us beginners out.</p>
+
+<h4>A Bit of Badassery</h4>
+
+<p>Today was pretty badass, since Brett and I were pretty productive we had a bit of extra time so I helped some people out, which was really cool to be able to help others instead of only asking for help, which we also had to do because regular expressions are crazy.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
