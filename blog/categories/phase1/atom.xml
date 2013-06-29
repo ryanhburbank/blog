@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase1 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase1/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-06-25T21:46:44-05:00</updated>
+  <updated>2013-06-29T10:11:57-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week One & Speaker Night]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/06/28/week-one-and-speaker-night/"/>
+    <updated>2013-06-28T07:48:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/06/28/week-one-and-speaker-night</id>
+    <content type="html"><![CDATA[<p>I feel like week one is going really well so far. Today we are tackling Sudoku which I dont currently have any ideas for but we have about a hour until that would be a issue anyways. Yesterday Ryan and I paired and we got a lot of work done and solved some cool problems, which was pretty awesome.</p>
+
+<p>The speaker last night was incredible. Hands down my favorite speaker Ive ever heard. He was funny and he was talking about topics we all cared about, which was awesome. He was the lead ( I think ) for the Mozilla Badges project and really gave me a lot to think about. He never stayed at a single job for more than 2 years, just because the job he was at wouldnt let him try to technologies, or old, that he wanted to play with learn, which is awesome that he just was learning so much.</p>
+
+<p>&mdash;&ndash; Im going to continue this post today (Saturday, didnt get a chance to finish yesterday &mdash;&ndash;</p>
+
+<p>Yesterday was one one of my least favorite days in my recent memory. We did a Sudoku solver as a group and our group dynamic did not work. I was so mentaly, just dead, I left right at 5 and just went to lay down for a bit. I couldnt even think.</p>
+
+<p>Today, I am going to work on the weekend cores, which there isnt a whole lot then I am going to try to work on the chat app that Brett and I built last Sunday.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Day 2: Pair Programming, Mentors, and Badassery]]></title>
@@ -77,32 +94,6 @@ I thought it was pretty good, at some points and it was mostly dependant on who 
 <p>I am not sure if blogging counts as social networking while I am there, so I may just have to write a post tonight about all that I have learned.</p>
 
 <p>As I get more used to the place I want to write about the experience at the Chicago office, because when I applied it hadnt even opened and I havent been able to find much info about it, where as the San Francisco office, you can pretty much find out whatever you want to know from a blog post or two.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Tomorrows The Day]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/06/24/tomorrows-the-day/"/>
-    <updated>2013-06-24T00:17:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/06/24/tomorrows-the-day</id>
-    <content type="html"><![CDATA[<p>So tomorrow&rsquo;s the day that will be the beginning of my time at DevBootcamp. I&rsquo;m so excited and nervous at the same time I am not sure what to even say about it.  I went to dinner tonight with ~10 of the people in my cohort (The Grasshoppers) which was fun.</p>
-
-<p>Also today, which I am pretty proud of / excited about, Brett and I made a chat client created in Ruby using a service called PubNub for instant updating. Its coming a long pretty nicely, and we only have a few hours into which is unbelievable to me. We havent really been pair programming because we have been using both our computers but working a long side each other, which has really sped up everything we have been working on so far. We also uploaded it to github and we are going to give version control a try, instead of just sharing gists to keep each other on the same path.</p>
-
-<p>You can check that out here :
-<a href="https://github.com/zacholauson/pubnub_chatroom">https://github.com/zacholauson/pubnub_chatroom</a></p>
-
-<p>Here is his github page:
-<a href="https://github.com/brettsanders">https://github.com/brettsanders</a></p>
-
-<p>We have to be there at 7:50 and the doors open at 8, we got a email from Dave (Dave Hoover) on Saturday letting us know what to do, and it really didnt answer a whole lot, which I know it wasnt supposed to.</p>
-
-<p>Anyways, as I was told to, to my family &amp;&amp; friends:</p>
-
-<p>  &ldquo;I am moving to Nepal to find inner peace.
-   I like a few of you. That is all.</p>
-
-<p>   &mdash; Zach Olauson"</p>
 ]]></content>
   </entry>
   

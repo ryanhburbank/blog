@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-06-25T21:46:44-05:00</updated>
+	<updated>2013-06-29T10:11:57-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,32 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Week One & Speaker Night]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/06/28/week-one-and-speaker-night/"/>
+		<updated>2013-06-28T07:48:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/06/28/week-one-and-speaker-night</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>I feel like week one is going really well so far. Today we are tackling Sudoku which I dont currently have any ideas for but we have about a hour until that would be a issue anyways. Yesterday Ryan and I paired and we got a lot of work done and solved some cool problems, which was pretty awesome.</p>
+
+<p>The speaker last night was incredible. Hands down my favorite speaker Ive ever heard. He was funny and he was talking about topics we all cared about, which was awesome. He was the lead ( I think ) for the Mozilla Badges project and really gave me a lot to think about. He never stayed at a single job for more than 2 years, just because the job he was at wouldnt let him try to technologies, or old, that he wanted to play with learn, which is awesome that he just was learning so much.</p>
+
+<p>&mdash;&ndash; Im going to continue this post today (Saturday, didnt get a chance to finish yesterday &mdash;&ndash;</p>
+
+<p>Yesterday was one one of my least favorite days in my recent memory. We did a Sudoku solver as a group and our group dynamic did not work. I was so mentaly, just dead, I left right at 5 and just went to lay down for a bit. I couldnt even think.</p>
+
+<p>Today, I am going to work on the weekend cores, which there isnt a whole lot then I am going to try to work on the chat app that Brett and I built last Sunday.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
