@@ -4,7 +4,7 @@
   <title><![CDATA[Category: DevBootcamp | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/devbootcamp/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-06-29T10:11:57-05:00</updated>
+  <updated>2013-07-02T07:14:53-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Week 2 Has Begun]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/02/week-2-has-begun/"/>
+    <updated>2013-07-02T07:01:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/02/week-2-has-begun</id>
+    <content type="html"><![CDATA[<p>So week one was nuts. Not as extreme of a workload as I expected, but theres always been something to be done. Week 2 is Object Oriented Programming, which I am really looking forward to. Im not super good with classes but I have a pretty good understanding so hopefully I get paired today with someone who can explain it a little more as we work.</p>
+
+<p>Yesterday we did Engineering Empathy, which I didnt hate, but its certainly not part of what I am used to, but I have been trying to get out of my comfort zone while I am here so that certainly did it.</p>
+
+<p>Also yesterday we had Improv night, which was also nuts. That also got me out of my comfort zone. The instructor was very nice and he had us doing cool stuff, I just wasnt into it. I much rather would have been coding for that 3 hours but I get why they have us do it, so thats cool.</p>
+
+<p>I got thinking yesterday about some cool shit I could build in Sinatra, even though I dont know Sinatra, but in my spare time these next two weeks I could probably learn Sinatra.</p>
+
+<p>I would like to explore the idea of building the following:</p>
+
+<p>Cards Against Humanity
+Online version of our chatroom</p>
+
+<p>And I had a few more ideas but of course I cant think of them&hellip;</p>
+
+<p>I dont want to spend too much time doing that though because if I have extra time I should be helping others who are having a more difficult time with the material we are covering, not only because I want them to succeed but also it will help me understand the concepts I am trying to explain. Also I want to make sure I have a pretty good understanding before I try to explain something because I would hate to explain something wrong and them think its right from now on.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Week One & Speaker Night]]></title>
@@ -81,19 +105,6 @@ I thought it was pretty good, at some points and it was mostly dependant on who 
 <p>Most of the morning consisted of talks about what we will be doing and different stuff while we are here.</p>
 
 <p>We did get to start a bit of coding today, which was fun, we got to do pair programming, which I am not so sure on, I will make a seperate post including my thoughts and whatnot on that as a beginner after I send this one out.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Only ~30 Minutes Away]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/06/24/only-%7E30-minutes-away/"/>
-    <updated>2013-06-24T07:02:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/06/24/only-~30-minutes-away</id>
-    <content type="html"><![CDATA[<p>Well we are only about 30 minutes away from starting. I am not sure what to say, just I am excited and nervous and I cant wait to start diving into some code.</p>
-
-<p>I am not sure if blogging counts as social networking while I am there, so I may just have to write a post tonight about all that I have learned.</p>
-
-<p>As I get more used to the place I want to write about the experience at the Chicago office, because when I applied it hadnt even opened and I havent been able to find much info about it, where as the San Francisco office, you can pretty much find out whatever you want to know from a blog post or two.</p>
 ]]></content>
   </entry>
   
