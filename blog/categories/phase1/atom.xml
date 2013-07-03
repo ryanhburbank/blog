@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase1 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase1/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-07-02T07:54:23-05:00</updated>
+  <updated>2013-07-03T07:51:42-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Titles are the hardest part of writing these]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/03/titles-are-the-hardest-part-of-writing-these/"/>
+    <updated>2013-07-03T07:41:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/03/titles-are-the-hardest-part-of-writing-these</id>
+    <content type="html"><![CDATA[<p>I want to try to write a new one of these every morning, and I usually have time. I can never think of a title though, maybe starting tomorrow I will just put the date, or give it a title then remove it before I post, I have to write something when I create the post because thats how its stored date-time-title.md</p>
+
+<p>I slept so good last night except I woke up more tired that I have ever work up since I got here. This post will probably just random thoughts put together in no order or maybe not even appear to be english.</p>
+
+<p>Today we are doing &ldquo;fireside&rdquo; chats on our portfolios and last night I finished up my portfolios so I am feeling pretty good about that.
+Also we get to scrape hackernews as a core so that should be pretty awesome, hopefully theres some stuff not about snowden or prism so whatever we scrape isnt stupid.</p>
+
+<p>This morning I figured out my dropbox was constantly synching everyone in my cohorts dropbox folder along with mine so that was destroying my battery life.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Week 2 Has Begun]]></title>
@@ -88,23 +104,6 @@ I thought it was pretty good, at some points and it was mostly dependant on who 
 <p>I am so used to working on my own and in my own little zone, when I see a possibility of improving the code or something I just jump on the keyboard and starting layin down code. Which certainly isnt how pair programming works.</p>
 
 <p>Ill keep posting on pair programming as I get better / or worse at it. I would really like to get really understand, sooner than later, so I dont hurt my partners learning while pairing, but for now we are all new to it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First Day at DevBootcamp]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/06/24/first-day-at-devbootcamp/"/>
-    <updated>2013-06-24T21:33:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/06/24/first-day-at-devbootcamp</id>
-    <content type="html"><![CDATA[<p>So today was my first day at DevBootcamp Chicago. I am not sure how to describe it, so Ill just use a single word: Badass. Everyone is super nice and so pumped to be here, its nuts.</p>
-
-<p>This morning our group was welcomed by a man with a pretty cool mustache in short jean shorts and a guy in strobing sun glasses. It threw me off a bit.</p>
-
-<p>Then when we walked into the front door, we walked through a tunnel of screaming people, one of the more terrifying moments of my life.</p>
-
-<p>Most of the morning consisted of talks about what we will be doing and different stuff while we are here.</p>
-
-<p>We did get to start a bit of coding today, which was fun, we got to do pair programming, which I am not so sure on, I will make a seperate post including my thoughts and whatnot on that as a beginner after I send this one out.</p>
 ]]></content>
   </entry>
   
