@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-07-05T07:45:27-05:00</updated>
+	<updated>2013-07-05T12:55:03-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,28 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[ ]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/07/05/july-5th/"/>
+		<updated>2013-07-05T07:46:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/07/05/july-5th</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Im so exhausted today, luckily the flash cards exercise for today doesnt seem too complex, and I think its a group project so that will be cool.</p>
+
+<p>Im really hoping we dont get stuck in a super boring lecture today, I really wish they could be optional, I dont like wasteing time when only a few people cant get it.</p>
+
+<p>Also testing another no title post.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -487,30 +509,6 @@ Its been really hot here, which I dont mind so much but its also been extremely 
 <p>Also he recommended to play around with SQL tables, and play around with Sinatra and Rails, although we wont need Rails until Phase 3 but it would be good to be somewhat familiar.</p>
 
 <p>Overall I&rsquo;m thankful he took the time out of his day to do this for the DBC community, he gave me a lot of helpful tips and I feel a little bit better about were I am in prep.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Got My Computer Back]]></title>
-		
-		<link href="http://zacholauson.github.io/blog/blog/2013/06/04/got-my-computer-back/"/>
-		<updated>2013-06-04T23:52:00-05:00</updated>
-		<id>http://zacholauson.github.io/blog/blog/2013/06/04/got-my-computer-back</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h3>Going to try to use Markdown a little better from now on, lets see how it goes.</h3>
-
-<p>Today I got back my MacBook (lost my github sticker D: if I can get markdown to work Ill include a image of its badassery) so I can get back to work on Ruby, I probably watched a solid 4 hours of tutorials on Youtube today, hopefully it helped some.</p>
-
-<p>Also I sent off my lease paperwork so hopefully that can get wrapped up in the next couple of days. I also went and bought some things for our apartment, because its unfurnished. Anyways hopefully I learned a bit about markdown so this post doesnt look terrible.</p>
-
-<p><img src="http://i.imgur.com/onYMPGx.jpg" alt="Github Macbook Decal" /></p>
 ]]>
 		</content>
 	</entry>
