@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-07-03T07:51:42-05:00</updated>
+	<updated>2013-07-04T19:20:49-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,34 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[July 4th]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th/"/>
+		<updated>2013-07-04T19:08:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Well today is July 4th. Got up at 6:30 and was at DBC at 7 this morning, a hour earlier than I usually am. Feeling pretty tired already but I feel like I have got quite a bit accomplished. Micah, Brett, and I were planning on grilling some steaks tonight but the courtyard at the apartment has been pretty packed today, and last I was at the apartment there was a pretty good sized beer pong game going, so we may just be cooking some steaks on the grill.</p>
+
+<p>We also went to Trader Joes today and got some stuff, Im hoping to not have lunch and dinner out as much, I am really getting sick of that kind of food. I really enjoy trying to places around the city but not every day.</p>
+
+<p>Tomorrow we have another group project day and then on the weekend the cores revolve mostly around Databases which I am really looking forward to. I really cant believe we are only a week from Phase 2.</p>
+
+<p>I already started looking into sinatra, it seems pretty simple. I just need to brush up on my HTML and CSS a bit and then I should be good to take in a massive amount of Javascript and Sinatra. I am kinda of worried about Javascript because all the times I have tried to learn it, it was a real bitch.</p>
+
+<p>Today I started writing my github project landing page, using Sinatra of course, figured I might as well just through myself into it and see what happens.</p>
+
+<p>I attempted to fix the twitter issue, I kept getting the same tweet every deploy which I really dont understand, I emptied my twitter queue after finally figuring out how to empty it.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -481,24 +509,6 @@ Its been really hot here, which I dont mind so much but its also been extremely 
 				
 			]]>
 			<![CDATA[<p>Ive just finished up the Chris Pine book and now I&rsquo;m working my way though Eloquent Ruby, trying to get as much work done as possible, because I am taking my laptop in tomorrow to get the screen replaced. So I will be without my machine that I do all my Ruby on for roughly 2 days, but I guess it will give me time to pack and finish up all I need to do before moving.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Assessment]]></title>
-		
-		<link href="http://zacholauson.github.io/blog/blog/2013/05/30/assessment/"/>
-		<updated>2013-05-30T21:53:00-05:00</updated>
-		<id>http://zacholauson.github.io/blog/blog/2013/05/30/assessment</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>I heard back about my assessment yesterday, overall seemed pretty good, I had some code to refactor which I think I got done pretty well, I want work on one method a bit more I think it could be better.</p>
 ]]>
 		</content>
 	</entry>
