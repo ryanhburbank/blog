@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase1 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase1/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-07-04T19:20:49-05:00</updated>
+  <updated>2013-07-04T19:25:31-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 4th 2]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2/"/>
+    <updated>2013-07-04T19:23:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2</id>
+    <content type="html"><![CDATA[<p>So because the whole title situation has really been holding me back from blogging I am going to try to just not have a title on all my blogs, if it doesnt work Ill just use the date but Id rather just use nothing, maybe throw the date in the tags.</p>
+
+<p>Also it appears I fixed the twitter queue issue.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[July 4th]]></title>
@@ -86,27 +97,6 @@ Online version of our chatroom</p>
 <p>Yesterday was one one of my least favorite days in my recent memory. We did a Sudoku solver as a group and our group dynamic did not work. I was so mentaly, just dead, I left right at 5 and just went to lay down for a bit. I couldnt even think.</p>
 
 <p>Today, I am going to work on the weekend cores, which there isnt a whole lot then I am going to try to work on the chat app that Brett and I built last Sunday.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Day 2: Pair Programming, Mentors, and Badassery]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/06/25/day-2-pair-programming-slash/"/>
-    <updated>2013-06-25T21:24:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/06/25/day-2-pair-programming-slash</id>
-    <content type="html"><![CDATA[<p>Today was my second day at DevBootcamp in Chicago. It was simply awesome.</p>
-
-<h4>Pairing</h4>
-
-<p>We paired with the same person all day today and my pair ended up being Brett, and the pair programming experience was really good. I just kept my hands away from the keyboard and mouse while navigating so I wouldnt accidently take control when my brain started going, and when I did take over, I asked first so I wasnt stepping on any toes.</p>
-
-<h4>Mentors</h4>
-
-<p>We met our mentors tonight, my mentor is Rob Lambert, who is a java developer. I&rsquo;m not sure what mentors provide to us, but its cool that people are willing to give up some of their day to help us beginners out.</p>
-
-<h4>A Bit of Badassery</h4>
-
-<p>Today was pretty badass, since Brett and I were pretty productive we had a bit of extra time so I helped some people out, which was really cool to be able to help others instead of only asking for help, which we also had to do because regular expressions are crazy.</p>
 ]]></content>
   </entry>
   

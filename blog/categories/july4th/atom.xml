@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: July4th | Zach Olauson]]></title>
+  <link href="http://zacholauson.github.io/blog/blog/categories/july4th/atom.xml" rel="self"/>
+  <link href="http://zacholauson.github.io/blog/"/>
+  <updated>2013-07-04T19:25:31-05:00</updated>
+  <id>http://zacholauson.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Zach Olauson]]></name>
+    <email><![CDATA[zmolauson@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[July 4th 2]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2/"/>
+    <updated>2013-07-04T19:23:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2</id>
+    <content type="html"><![CDATA[<p>So because the whole title situation has really been holding me back from blogging I am going to try to just not have a title on all my blogs, if it doesnt work Ill just use the date but Id rather just use nothing, maybe throw the date in the tags.</p>
+
+<p>Also it appears I fixed the twitter queue issue.</p>
+]]></content>
+  </entry>
+  
+</feed>

@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-07-04T19:20:49-05:00</updated>
+	<updated>2013-07-04T19:25:31-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,26 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[July 4th 2]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2/"/>
+		<updated>2013-07-04T19:23:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>So because the whole title situation has really been holding me back from blogging I am going to try to just not have a title on all my blogs, if it doesnt work Ill just use the date but Id rather just use nothing, maybe throw the date in the tags.</p>
+
+<p>Also it appears I fixed the twitter queue issue.</p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -491,24 +511,6 @@ Its been really hot here, which I dont mind so much but its also been extremely 
 <p>Also I sent off my lease paperwork so hopefully that can get wrapped up in the next couple of days. I also went and bought some things for our apartment, because its unfurnished. Anyways hopefully I learned a bit about markdown so this post doesnt look terrible.</p>
 
 <p><img src="http://i.imgur.com/onYMPGx.jpg" alt="Github Macbook Decal" /></p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Learning as Much as Possible]]></title>
-		
-		<link href="http://zacholauson.github.io/blog/blog/2013/06/02/learning-as-much-as-possible/"/>
-		<updated>2013-06-02T17:14:00-05:00</updated>
-		<id>http://zacholauson.github.io/blog/blog/2013/06/02/learning-as-much-as-possible</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>Ive just finished up the Chris Pine book and now I&rsquo;m working my way though Eloquent Ruby, trying to get as much work done as possible, because I am taking my laptop in tomorrow to get the screen replaced. So I will be without my machine that I do all my Ruby on for roughly 2 days, but I guess it will give me time to pack and finish up all I need to do before moving.</p>
 ]]>
 		</content>
 	</entry>
