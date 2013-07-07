@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: DevBootcamp | Zach Olauson]]></title>
+  <title><![CDATA[Category: DevBootcamp, | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/devbootcamp/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-07-06T21:38:35-05:00</updated>
+  <updated>2013-07-06T22:00:27-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -14,89 +14,51 @@
 
   
   <entry>
-    <title type="html"><![CDATA[ ]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/07/06/july6/"/>
-    <updated>2013-07-06T21:33:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/07/06/july6</id>
-    <content type="html"><![CDATA[<p>Well it appears I finally figured out how to get my posts to not have a title.</p>
+    <title type="html"><![CDATA[A Few Things About DBC Chicago]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/06/a-few-things-about-dbc-chicago/"/>
+    <updated>2013-07-06T21:40:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/06/a-few-things-about-dbc-chicago</id>
+    <content type="html"><![CDATA[<p>When I first started this blog I wanted to write a bit about the Chicago DBC as a whole, because when I got accepted they hadnt even opened their doors for the Squirrels yet ( first cohort ). So unlike the DBC in San Francisco you couldnt look up anything you wanted about the place and have a ton of sources of info. So I kinda wanted to do that for DBC Chicago, even though no one reads this, maybe someone looking for answers will find it, and it will be helpful.</p>
 
-<p>I just have to rake new post with a title ( currently using the date ) and then just replaces the title with a space, you have to leave the title tag and put a space otherwise it defaults to your file name.</p>
+<h4>Food &amp;&amp; Drink</h4>
 
-<p>We are only about a week away from Phase 2, I am feeling really good about Phase 1 but I wont know until Thursday. Alyssa said that if they havent mentioned to us that we are in danger of &ldquo;failing&rdquo; then we are all good, but I guess I like to worry.</p>
+<p>A lot of people go out to eat at lunch, you have a hour and a half.During Week 1 I ate out almost every day for lunch and dinner and was feeling pretty shitty so now I am trying to bring food or go back to my apartment and eat but its cool to try to places. There is a fridge for boots and each boot has a box for other food.</p>
 
-<p>When I first started this blog I wanted to write a bit about the Chicago DBC as a whole, because when I got accepted they hadnt even opened their doors for the Squirrels yet ( first cohort ). So unlike the DBC in San Francisco you couldnt look up anything you wanted about the place and have a ton of sources of info. So I kinda wanted to do that for DBC Chicago, even though no one reads this, maybe someone looking for answers will find it helpful. The next post will be that and if someone does find this and needs more answers, you can email me.</p>
+<p>Merchandise Mart is just across the street, and they have a pretty good selection of things.</p>
 
-<p><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#x7a;&#x6d;&#111;&#108;&#x61;&#117;&#x73;&#111;&#x6e;&#x40;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#x7a;&#109;&#111;&#108;&#97;&#x75;&#115;&#x6f;&#110;&#x40;&#103;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#x6d;</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 4th 2]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2/"/>
-    <updated>2013-07-04T19:23:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th-2</id>
-    <content type="html"><![CDATA[<p>So because the whole title situation has really been holding me back from blogging I am going to try to just not have a title on all my blogs, if it doesnt work Ill just use the date but Id rather just use nothing, maybe throw the date in the tags.</p>
+<p>There is 2 Subways within a block and beyond that there is quite a large selection.</p>
 
-<p>Also it appears I fixed the twitter queue issue.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 4th]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th/"/>
-    <updated>2013-07-04T19:08:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th</id>
-    <content type="html"><![CDATA[<p>Well today is July 4th. Got up at 6:30 and was at DBC at 7 this morning, a hour earlier than I usually am. Feeling pretty tired already but I feel like I have got quite a bit accomplished. Micah, Brett, and I were planning on grilling some steaks tonight but the courtyard at the apartment has been pretty packed today, and last I was at the apartment there was a pretty good sized beer pong game going, so we may just be cooking some steaks on the grill.</p>
+<p>In the Kitchen at DBC there is 2 coffee makers, 1 of which is a Keurig, so bring your cup things if you want that, I havent used either but there is almost always coffee available, before 3 I think.</p>
 
-<p>We also went to Trader Joes today and got some stuff, Im hoping to not have lunch and dinner out as much, I am really getting sick of that kind of food. I really enjoy trying to places around the city but not every day.</p>
+<p>There is also a Starbucks in the main floor of the building and a CVS right across the street for other drinks or snacks.</p>
 
-<p>Tomorrow we have another group project day and then on the weekend the cores revolve mostly around Databases which I am really looking forward to. I really cant believe we are only a week from Phase 2.</p>
+<p>Also theres a bar / burger place on the main floor but the 1 time I went there because I wanted a burger they were out of burgers, so I no longer will go there.</p>
 
-<p>I already started looking into sinatra, it seems pretty simple. I just need to brush up on my HTML and CSS a bit and then I should be good to take in a massive amount of Javascript and Sinatra. I am kinda of worried about Javascript because all the times I have tried to learn it, it was a real bitch.</p>
+<h4>Apartments / Housing</h4>
 
-<p>Today I started writing my github project landing page, using Sinatra of course, figured I might as well just through myself into it and see what happens.</p>
+<p>I was really lucky and ended up getting a apartment a block away from DBC with a fellow Grasshopper, and honestly, its awesome. Its not overly expensive and the convience of living so close is worth any extra to me. Also Trader Joes and Whole Foods arent that far away which is pretty nice for groceries.</p>
 
-<p>I attempted to fix the twitter issue, I kept getting the same tweet every deploy which I really dont understand, I emptied my twitter queue after finally figuring out how to empty it.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Titles are the hardest part of writing these]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/07/03/titles-are-the-hardest-part-of-writing-these/"/>
-    <updated>2013-07-03T07:41:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/07/03/titles-are-the-hardest-part-of-writing-these</id>
-    <content type="html"><![CDATA[<p>I want to try to write a new one of these every morning, and I usually have time. I can never think of a title though, maybe starting tomorrow I will just put the date, or give it a title then remove it before I post, I have to write something when I create the post because thats how its stored date-time-title.md</p>
+<p><a href="http://www.rivernorthpark.com/">http://www.rivernorthpark.com/</a></p>
 
-<p>I slept so good last night except I woke up more tired that I have ever work up since I got here. This post will probably just random thoughts put together in no order or maybe not even appear to be english.</p>
+<p>Besides that I guess I would just check for sublets on craigslist or something, I think some other guys are trying to get a list together of places near by so I will link to that in the future if it happens.</p>
 
-<p>Today we are doing &ldquo;fireside&rdquo; chats on our portfolios and last night I finished up my portfolios so I am feeling pretty good about that.
-Also we get to scrape hackernews as a core so that should be pretty awesome, hopefully theres some stuff not about snowden or prism so whatever we scrape isnt stupid.</p>
+<h4>Hours?</h4>
 
-<p>This morning I figured out my dropbox was constantly synching everyone in my cohorts dropbox folder along with mine so that was destroying my battery life.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Week 2 Has Begun]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/07/02/week-2-has-begun/"/>
-    <updated>2013-07-02T07:01:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/07/02/week-2-has-begun</id>
-    <content type="html"><![CDATA[<p>So week one was nuts. Not as extreme of a workload as I expected, but theres always been something to be done. Week 2 is Object Oriented Programming, which I am really looking forward to. Im not super good with classes but I have a pretty good understanding so hopefully I get paired today with someone who can explain it a little more as we work.</p>
+<p>The core hours are 8 to 5 ( you check in with your group at 7:45 ) after that you are free to leave but its a great work enviroment, everyone is super helpful, and you will have stuff to do.</p>
 
-<p>Yesterday we did Engineering Empathy, which I didnt hate, but its certainly not part of what I am used to, but I have been trying to get out of my comfort zone while I am here so that certainly did it.</p>
+<p>I usually get there at about 7:30ish and leave around 10ish sometimes later, depending if I have to get groceries or do laundry.</p>
 
-<p>Also yesterday we had Improv night, which was also nuts. That also got me out of my comfort zone. The instructor was very nice and he had us doing cool stuff, I just wasnt into it. I much rather would have been coding for that 3 hours but I get why they have us do it, so thats cool.</p>
+<p>Weekends are optional but you still have work to do so if you dont come in you will still have to put in some good hours of work. Weekends get a little louder than core hours during the week so I suggest headphones if you need the quiet.</p>
 
-<p>I got thinking yesterday about some cool shit I could build in Sinatra, even though I dont know Sinatra, but in my spare time these next two weeks I could probably learn Sinatra.</p>
+<h4>Work Enviroment</h4>
 
-<p>I would like to explore the idea of building the following:</p>
+<p>This is my favorite part about DBC, its a great place to work and everyone is amazing. I have never felt so excited to go somewhere at 7:30 in the morning. Its pretty cool to think that, at any given minute in that place, someone is making something awesome.</p>
 
-<p>Cards Against Humanity
-Online version of our chatroom</p>
+<p>Originally I kinda figured it would be wierd, being the n00bs in phase 1 but everyone has been there and everyone is super helpful.</p>
 
-<p>And I had a few more ideas but of course I cant think of them&hellip;</p>
+<hr />
 
-<p>I dont want to spend too much time doing that though because if I have extra time I should be helping others who are having a more difficult time with the material we are covering, not only because I want them to succeed but also it will help me understand the concepts I am trying to explain. Also I want to make sure I have a pretty good understanding before I try to explain something because I would hate to explain something wrong and them think its right from now on.</p>
+<p>If anyone has any questions you can feel free to email me @ <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#122;&#x6d;&#111;&#108;&#x61;&#117;&#x73;&#x6f;&#x6e;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#122;&#109;&#x6f;&#108;&#x61;&#x75;&#115;&#x6f;&#x6e;&#64;&#x67;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;</a> and in my INCREDIBLE AMOUNT OF FREE TIME I will get back to you.</p>
 ]]></content>
   </entry>
   
