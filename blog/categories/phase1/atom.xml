@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase1 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase1/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-07-05T12:55:03-05:00</updated>
+  <updated>2013-07-06T21:38:35-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ ]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/06/july6/"/>
+    <updated>2013-07-06T21:33:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/06/july6</id>
+    <content type="html"><![CDATA[<p>Well it appears I finally figured out how to get my posts to not have a title.</p>
+
+<p>I just have to rake new post with a title ( currently using the date ) and then just replaces the title with a space, you have to leave the title tag and put a space otherwise it defaults to your file name.</p>
+
+<p>We are only about a week away from Phase 2, I am feeling really good about Phase 1 but I wont know until Thursday. Alyssa said that if they havent mentioned to us that we are in danger of &ldquo;failing&rdquo; then we are all good, but I guess I like to worry.</p>
+
+<p>When I first started this blog I wanted to write a bit about the Chicago DBC as a whole, because when I got accepted they hadnt even opened their doors for the Squirrels yet ( first cohort ). So unlike the DBC in San Francisco you couldnt look up anything you wanted about the place and have a ton of sources of info. So I kinda wanted to do that for DBC Chicago, even though no one reads this, maybe someone looking for answers will find it helpful. The next post will be that and if someone does find this and needs more answers, you can email me.</p>
+
+<p><a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x7a;&#x6d;&#111;&#x6c;&#97;&#x75;&#x73;&#111;&#x6e;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#x7a;&#109;&#111;&#x6c;&#x61;&#117;&#115;&#x6f;&#x6e;&#64;&#x67;&#109;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#109;</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[July 4th 2]]></title>
@@ -80,23 +97,6 @@ Online version of our chatroom</p>
 <p>And I had a few more ideas but of course I cant think of them&hellip;</p>
 
 <p>I dont want to spend too much time doing that though because if I have extra time I should be helping others who are having a more difficult time with the material we are covering, not only because I want them to succeed but also it will help me understand the concepts I am trying to explain. Also I want to make sure I have a pretty good understanding before I try to explain something because I would hate to explain something wrong and them think its right from now on.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Week One & Speaker Night]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/06/28/week-one-and-speaker-night/"/>
-    <updated>2013-06-28T07:48:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/06/28/week-one-and-speaker-night</id>
-    <content type="html"><![CDATA[<p>I feel like week one is going really well so far. Today we are tackling Sudoku which I dont currently have any ideas for but we have about a hour until that would be a issue anyways. Yesterday Ryan and I paired and we got a lot of work done and solved some cool problems, which was pretty awesome.</p>
-
-<p>The speaker last night was incredible. Hands down my favorite speaker Ive ever heard. He was funny and he was talking about topics we all cared about, which was awesome. He was the lead ( I think ) for the Mozilla Badges project and really gave me a lot to think about. He never stayed at a single job for more than 2 years, just because the job he was at wouldnt let him try to technologies, or old, that he wanted to play with learn, which is awesome that he just was learning so much.</p>
-
-<p>&mdash;&ndash; Im going to continue this post today (Saturday, didnt get a chance to finish yesterday &mdash;&ndash;</p>
-
-<p>Yesterday was one one of my least favorite days in my recent memory. We did a Sudoku solver as a group and our group dynamic did not work. I was so mentaly, just dead, I left right at 5 and just went to lay down for a bit. I couldnt even think.</p>
-
-<p>Today, I am going to work on the weekend cores, which there isnt a whole lot then I am going to try to work on the chat app that Brett and I built last Sunday.</p>
 ]]></content>
   </entry>
   

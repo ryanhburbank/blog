@@ -4,7 +4,7 @@
 	<title><![CDATA[Zach Olauson]]></title>
 	<link href="http://zacholauson.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://zacholauson.github.io/blog/"/>
-	<updated>2013-07-05T12:55:03-05:00</updated>
+	<updated>2013-07-06T21:38:35-05:00</updated>
 	<id>http://zacholauson.github.io/blog/</id>
 	<author>
 		<name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,32 @@
 	</author>
 	<generator uri="http://octopress.org/">Octopress</generator>
 
+	
+	<entry>
+		
+			<title type="html"><![CDATA[ ]]></title>
+		
+		<link href="http://zacholauson.github.io/blog/blog/2013/07/06/july6/"/>
+		<updated>2013-07-06T21:33:00-05:00</updated>
+		<id>http://zacholauson.github.io/blog/blog/2013/07/06/july6</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>Well it appears I finally figured out how to get my posts to not have a title.</p>
+
+<p>I just have to rake new post with a title ( currently using the date ) and then just replaces the title with a space, you have to leave the title tag and put a space otherwise it defaults to your file name.</p>
+
+<p>We are only about a week away from Phase 2, I am feeling really good about Phase 1 but I wont know until Thursday. Alyssa said that if they havent mentioned to us that we are in danger of &ldquo;failing&rdquo; then we are all good, but I guess I like to worry.</p>
+
+<p>When I first started this blog I wanted to write a bit about the Chicago DBC as a whole, because when I got accepted they hadnt even opened their doors for the Squirrels yet ( first cohort ). So unlike the DBC in San Francisco you couldnt look up anything you wanted about the place and have a ton of sources of info. So I kinda wanted to do that for DBC Chicago, even though no one reads this, maybe someone looking for answers will find it helpful. The next post will be that and if someone does find this and needs more answers, you can email me.</p>
+
+<p><a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#x7a;&#109;&#x6f;&#x6c;&#97;&#117;&#x73;&#111;&#x6e;&#64;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#111;&#109;">&#x7a;&#x6d;&#x6f;&#108;&#x61;&#x75;&#115;&#x6f;&#110;&#x40;&#103;&#109;&#97;&#105;&#108;&#x2e;&#99;&#111;&#109;</a></p>
+]]>
+		</content>
+	</entry>
 	
 	<entry>
 		
@@ -481,34 +507,6 @@ I thought it was pretty good, at some points and it was mostly dependant on who 
 			<![CDATA[<p>Got moved into my apartment in Chicago, and have been coding as much as possible. Micah, from my DBC cohort, lives in the same building so I have been working with him a bit.
 I also went to Coding Coffee, which was pretty cool, got a bit done on my Imgur / Reddit scraper, and had some shitty Starbucks coffee.
 Its been really hot here, which I dont mind so much but its also been extremely humid, which I really dont like, luckily the apartment has really good AC.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Got Some Advice From Phase 4]]></title>
-		
-		<link href="http://zacholauson.github.io/blog/blog/2013/06/07/got-some-advice-from-phase-4/"/>
-		<updated>2013-06-07T22:51:00-05:00</updated>
-		<id>http://zacholauson.github.io/blog/blog/2013/06/07/got-some-advice-from-phase-4</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<h3>Today I talked to Stephen Nguyen, who is in Phase 4 at DBC. He was doing a Google Hangout where anyone could come in and ask questions or just hangout.</h3>
-
-<h3>Heres his blog if you wish to check it out <a href="http://binaryskipper.tumblr.com/">http://binaryskipper.tumblr.com/</a></h3>
-
-<p>So I didnt go in with any specific questions, just thought I would hangout and hopefully chat about code. He gave me some pretty cool info about some plugins for Sublime, such as Bracket Highlighter, Emmet, and SublimeLinter, which all can be found in Package Control.</p>
-
-<p>He also gave me some tips on getting even more prepared for DBC. He said there were some books I should probably check out like &ldquo;Eloquent Ruby&rdquo; (which I have been reading and its awesome), &ldquo;Practical Object Oriented Design in Ruby&rdquo;, &ldquo;Sinatra Up and Running&rdquo;. He also said that doing the exercises in Chris Pine&rsquo;s &ldquo;Learn to Program&rdquo; was very important, he said many people just read through the book and didnt really get all they could take away from the book, he said a lot of the Exercises are similar or the same as their Week 1 challenges, which I am not sure if SF and Chicagos exercises are the same but still good info.</p>
-
-<p>Also he recommended to play around with SQL tables, and play around with Sinatra and Rails, although we wont need Rails until Phase 3 but it would be good to be somewhat familiar.</p>
-
-<p>Overall I&rsquo;m thankful he took the time out of his day to do this for the DBC community, he gave me a lot of helpful tips and I feel a little bit better about were I am in prep.</p>
 ]]>
 		</content>
 	</entry>
