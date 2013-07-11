@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase1 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase1/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-07-06T22:07:36-05:00</updated>
+  <updated>2013-07-11T12:22:17-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[July 8th]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/08/july-8th/"/>
+    <updated>2013-07-08T07:43:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/08/july-8th</id>
+    <content type="html"><![CDATA[<p>Today is the beginning of week 3 in Phase 1. We are supposed to be learning Databases and Active Record, and I am pretty excited about that.</p>
+
+<p>Update on Week 3 Phase 1:</p>
+
+<p>We have looked at Databases and Active Record a bit but not a whole log. SQL queries are pretty fun and now we have been implementing them into ruby programs which is pretty cool.</p>
+
+<p>Today was the assessment to see if we move on to Phase 2, and I made it. I was super nervous last night even though I didnt feel like I had a reason to, I also interviewed with Mike which was pretty cool, he questioned a lot of my code and even though it really put me on the spot I really appreciated it.</p>
+
+<p>Im looking forward to Phase 2 so much, I just wanna build awesome shit every day.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Few Things About DBC Chicago]]></title>
@@ -58,7 +75,7 @@
 
 <hr />
 
-<p>If anyone has any questions you can feel free to email me @ <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#58;&#x7a;&#109;&#x6f;&#x6c;&#x61;&#x75;&#x73;&#111;&#x6e;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#111;&#109;">&#122;&#x6d;&#x6f;&#108;&#x61;&#x75;&#x73;&#x6f;&#110;&#x40;&#103;&#x6d;&#97;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a> and in my INCREDIBLE AMOUNT OF FREE TIME I will get back to you.</p>
+<p>If anyone has any questions you can feel free to email me @ <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#122;&#x6d;&#111;&#x6c;&#x61;&#x75;&#x73;&#x6f;&#110;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;">&#122;&#x6d;&#111;&#108;&#97;&#x75;&#115;&#111;&#110;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#46;&#99;&#x6f;&#x6d;</a> and in my INCREDIBLE AMOUNT OF FREE TIME I will get back to you.</p>
 ]]></content>
   </entry>
   
@@ -75,7 +92,7 @@
 
 <p>When I first started this blog I wanted to write a bit about the Chicago DBC as a whole, because when I got accepted they hadnt even opened their doors for the Squirrels yet ( first cohort ). So unlike the DBC in San Francisco you couldnt look up anything you wanted about the place and have a ton of sources of info. So I kinda wanted to do that for DBC Chicago, even though no one reads this, maybe someone looking for answers will find it helpful. The next post will be that and if someone does find this and needs more answers, you can email me.</p>
 
-<p><a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#x7a;&#109;&#x6f;&#x6c;&#x61;&#x75;&#115;&#111;&#x6e;&#64;&#103;&#x6d;&#x61;&#105;&#108;&#x2e;&#x63;&#111;&#109;">&#x7a;&#x6d;&#x6f;&#108;&#x61;&#x75;&#x73;&#x6f;&#110;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></p>
+<p><a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#122;&#x6d;&#111;&#108;&#x61;&#117;&#x73;&#x6f;&#110;&#x40;&#103;&#109;&#97;&#105;&#108;&#x2e;&#99;&#111;&#109;">&#x7a;&#109;&#x6f;&#108;&#97;&#117;&#115;&#x6f;&#x6e;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#109;</a></p>
 ]]></content>
   </entry>
   
@@ -100,25 +117,6 @@
     <content type="html"><![CDATA[<p>So because the whole title situation has really been holding me back from blogging I am going to try to just not have a title on all my blogs, if it doesnt work Ill just use the date but Id rather just use nothing, maybe throw the date in the tags.</p>
 
 <p>Also it appears I fixed the twitter queue issue.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[July 4th]]></title>
-    <link href="http://zacholauson.github.io/blog/blog/2013/07/04/july-4th/"/>
-    <updated>2013-07-04T19:08:00-05:00</updated>
-    <id>http://zacholauson.github.io/blog/blog/2013/07/04/july-4th</id>
-    <content type="html"><![CDATA[<p>Well today is July 4th. Got up at 6:30 and was at DBC at 7 this morning, a hour earlier than I usually am. Feeling pretty tired already but I feel like I have got quite a bit accomplished. Micah, Brett, and I were planning on grilling some steaks tonight but the courtyard at the apartment has been pretty packed today, and last I was at the apartment there was a pretty good sized beer pong game going, so we may just be cooking some steaks on the grill.</p>
-
-<p>We also went to Trader Joes today and got some stuff, Im hoping to not have lunch and dinner out as much, I am really getting sick of that kind of food. I really enjoy trying to places around the city but not every day.</p>
-
-<p>Tomorrow we have another group project day and then on the weekend the cores revolve mostly around Databases which I am really looking forward to. I really cant believe we are only a week from Phase 2.</p>
-
-<p>I already started looking into sinatra, it seems pretty simple. I just need to brush up on my HTML and CSS a bit and then I should be good to take in a massive amount of Javascript and Sinatra. I am kinda of worried about Javascript because all the times I have tried to learn it, it was a real bitch.</p>
-
-<p>Today I started writing my github project landing page, using Sinatra of course, figured I might as well just through myself into it and see what happens.</p>
-
-<p>I attempted to fix the twitter issue, I kept getting the same tweet every deploy which I really dont understand, I emptied my twitter queue after finally figuring out how to empty it.</p>
 ]]></content>
   </entry>
   
