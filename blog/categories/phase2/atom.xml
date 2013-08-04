@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Phase2 | Zach Olauson]]></title>
   <link href="http://zacholauson.github.io/blog/blog/categories/phase2/atom.xml" rel="self"/>
   <link href="http://zacholauson.github.io/blog/"/>
-  <updated>2013-07-16T07:50:21-05:00</updated>
+  <updated>2013-08-04T14:38:37-05:00</updated>
   <id>http://zacholauson.github.io/blog/</id>
   <author>
     <name><![CDATA[Zach Olauson]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[7-19-13]]></title>
+    <link href="http://zacholauson.github.io/blog/blog/2013/07/19/7-19-13/"/>
+    <updated>2013-07-19T12:29:00-05:00</updated>
+    <id>http://zacholauson.github.io/blog/blog/2013/07/19/7-19-13</id>
+    <content type="html"><![CDATA[<p>I have written so many posts lately but didnt finish them.
+Im in Phase 2 now, its&hellip; incredible. Phase 1 was relatively fun, but Phase 2, holy shit, its great.</p>
+
+<p>Monday the Dragonflies came in and they all seem really smart, Im not sure what happened between us and them but we definently had some really weak links and they seem to all be doing quite good. I am a little nervous about pairing is caring this weekend because I have a feeling I might look like a giant dumbass while attempting to help, oh well.</p>
+
+<p>Monday night I ended up building a Katy Perry Lorem Ipsum Generator for Mike, one of the instructors, and then Tuesday I had a finished sinatra web app running on Heroku, its so cool being able to pass around a link of something you built, even though its somewhat useless, except for yesterday we used it to seed a blog system we made, which made it quite interesting. I dont think you can imagine how strange and inappropriate her lyrics are until you take thousands of lines of them and mix them together randomly, it crazy.</p>
+
+<p>Wednesday we started AJAX, I think, could have been Tuesday, but who cares. I am so lost with javascript, I dont even know what to do, I have been doing the CodeSchool jQuery tutorial and it seems to be helping a bit but I still dont think I can write anything with it,  but I can read it pretty well.</p>
+
+<h2>Still havent finished this one but working on updating things.</h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[7-16-13]]></title>
